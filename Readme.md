@@ -28,7 +28,4 @@ Moreover, if you have sequence of frames of images for trainig purpose , i perso
 
 ## Refrences
 Affect Analysis in-the-wild: Valence-Arousal, Expressions, Action Units and a Unified Framework(Dimitrios Kollias, Member,Stefanos Zafeiriou) 
-
-
-
-# CNN-models
+https://arxiv.org/pdf/2103.15792.pdf
